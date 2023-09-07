@@ -4,5 +4,6 @@ public class Andrew2 {
         System.out.println("This is my text");
         System.out.println("Hello Andrew");
         System.out.println("Test Emely code");
+        System.out.println("Test Amirkhon Code");
     }
 }
